@@ -1,0 +1,15 @@
+{
+  "name": "hzgeek-blog-v3",
+  "version": "0.0.1",
+  "description": "HZGeek Blog VuePress",
+  "main": "index.js",
+  "author": "JupiterJun",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}

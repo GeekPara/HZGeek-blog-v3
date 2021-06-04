@@ -1,0 +1,5 @@
+title: '衡中极客圈'
+descrpiton: '衡中极客圈官方博客'
+themeConfig:
+  sidebar: 'auto'
+  logo: '/assets/hzgeek-logo/zhang.png'
